@@ -68,6 +68,7 @@ The repository covers commonly asked SQL interview questions ranging from basic 
 - Practice commonly asked interview questions
 - Build a structured SQL reference repository
 - Prepare for DevOps, Software Engineering, and Database-related interviews
+---
 ## Skills Demonstrated
 - Data Retrieval
 - Data Filtering
@@ -76,6 +77,7 @@ The repository covers commonly asked SQL interview questions ranging from basic 
 - Table Relationships
 - Query Optimization Basics
 - Problem Solving Using SQL
+---
 ## Author
 Raju Dhuriya
 This repository is part of my continuous learning journey in SQL, DevOps, and Cloud Computing.
