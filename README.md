@@ -62,15 +62,13 @@ The repository covers commonly asked SQL interview questions ranging from basic 
 - Nested queries
 
 ---
-
-## Sample Query
-#Learning Goals
-Strengthen SQL fundamentals
+## Learning Goals
+Strengthen SQL fundamentals 
 Improve query-writing skills
 Practice commonly asked interview questions
 Build a structured SQL reference repository
 Prepare for DevOps, Software Engineering, and Database-related interviews
-#Skills Demonstrated
+## Skills Demonstrated
 Data Retrieval
 Data Filtering
 Data Aggregation
@@ -80,6 +78,6 @@ Query Optimization Basics
 Problem Solving Using SQL
 Author
 
-#Raju Dhuriya
+## Raju Dhuriya
 
 This repository is part of my continuous learning journey in SQL, DevOps, and Cloud Computing.
