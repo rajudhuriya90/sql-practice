@@ -79,5 +79,6 @@ The repository covers commonly asked SQL interview questions ranging from basic 
 - Problem Solving Using SQL
 ---
 ## Author
-Raju Dhuriya
+# Raju Dhuriya
+
 This repository is part of my continuous learning journey in SQL, DevOps, and Cloud Computing.
