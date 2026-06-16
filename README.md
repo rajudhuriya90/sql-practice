@@ -1,4 +1,4 @@
-# SQL Interview Practice Repository
+# SQL Interview Practice 
 
 ## Overview
 
